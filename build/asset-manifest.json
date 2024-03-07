@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FormDynamic.git/build/static/css/main.f657edb4.css",
+    "main.js": "/FormDynamic.git/build/static/js/main.13187586.js",
+    "static/js/787.fade35ac.chunk.js": "/FormDynamic.git/build/static/js/787.fade35ac.chunk.js",
+    "static/media/prime.jpeg": "/FormDynamic.git/build/static/media/prime.1571bf84a5c60378aa01.jpeg",
+    "static/media/netflix.jpeg": "/FormDynamic.git/build/static/media/netflix.9996e10580949557c465.jpeg",
+    "static/media/hbo.jpeg": "/FormDynamic.git/build/static/media/hbo.7e7e187b49abeb9400ee.jpeg",
+    "index.html": "/FormDynamic.git/build/index.html",
+    "main.f657edb4.css.map": "/FormDynamic.git/build/static/css/main.f657edb4.css.map",
+    "main.13187586.js.map": "/FormDynamic.git/build/static/js/main.13187586.js.map",
+    "787.fade35ac.chunk.js.map": "/FormDynamic.git/build/static/js/787.fade35ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f657edb4.css",
+    "static/js/main.13187586.js"
+  ]
+}
